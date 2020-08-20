@@ -1,0 +1,10 @@
+form input[name]{
+	background-color: greenyellow;
+	size: 150px;
+	margin-bottom: 10px;
+}
+label[for="visitante"]{
+	color:orangered;
+	font-size:large;
+	font-weight: bold;
+}
